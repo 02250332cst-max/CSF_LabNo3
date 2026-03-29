@@ -5,28 +5,28 @@ The aim of this lab is to develop a clear understanding of control structures in
 
 List of Programs
 
-Check whether a number is positive, negative, or zero
-Check whether a number is even or odd
-Find the largest of two numbers
-Find the largest of three numbers
-Display grade based on marks
-Menu-driven calculator using if-else
-Print numbers from 1 to 10 (for loop)
-Print even numbers from 1 to 20
-Find sum of first 10 natural numbers`able
-Print numbers from 1 to 5 (while loop)
-Find sum from 1 to n using while loop
-Take input until user enters 0
-Print numbers using break
-Print numbers using continue
-Search for a number in a list
-Function to print “Hello, World!”
-Function to find square of a number
-Function to add two numbers
-Function to check even or odd
-Function to calculate factorial
-Function to print multiplication table
-Even/odd check from 1 to n using function
+Check whether a number is positive, negative, or zero,
+Check whether a number is even or odd,
+Find the largest of two numbers,
+Find the largest of three numbers,
+Display grade based on marks,
+Menu-driven calculator using if-else,
+Print numbers from 1 to 10 (for loop),
+Print even numbers from 1 to 20,
+Find sum of first 10 natural numbers`able,
+Print numbers from 1 to 5 (while loop),
+Find sum from 1 to n using while loop,
+Take input until user enters 0,
+Print numbers using break,
+Print numbers using continue,
+Search for a number in a list,
+Function to print “Hello, World!”,
+Function to find square of a number,
+Function to add two numbers,
+Function to check even or odd,
+Function to calculate factorial,
+Function to print multiplication table,
+Even/odd check from 1 to n using function, and
 Menu-driven calculator using functions and loop
 
 
