@@ -32,27 +32,27 @@ Menu-driven calculator using functions and loop
 
 Short Explanation of Each Program
 
-Determines whether a given number is positive, negative, or zero using if-else statements.
-Checks if a number is even or odd using modulus operator.
-Compares two numbers and displays the larger one.
-Uses nested if-else to find the largest among three numbers.
-Assigns grades based on input marks using conditional statements.
-Performs basic arithmetic operations based on user choice using if-elif.
-Uses a for loop to print numbers from 1 to 10.
-Prints all even numbers between 1 and 20 using loop control.
-Calculates the sum of first 10 natural numbers using built-in or loop.
-Displays multiplication table of a given number using loop.
-Uses while loop to print numbers from 1 to 5.
-Computes sum from 1 to n using a while loop.
-Continuously takes input until user enters 0, demonstrating loop control.
-Demonstrates use of break to exit loop when condition is met.
-Demonstrates use of continue to skip a specific iteration.
-Searches for a value in a list and stops when found using break.
-Defines and calls a simple function to print a message.
-Creates a function that returns the square of a number.
-Uses a function to add two numbers and return the result.
-Checks whether a number is even or odd using a function.
-Calculates factorial of a number using a function.
-Prints multiplication table using a function.
-Uses function and loop to check even/odd for numbers from 1 to n.
-Implements a menu-driven calculator using functions and loop until exit.
+1.Determines whether a given number is positive, negative, or zero using if-else statements.
+2.Checks if a number is even or odd using modulus operator.
+3.Compares two numbers and displays the larger one.
+4.Uses nested if-else to find the largest among three numbers.
+5.Assigns grades based on input marks using conditional statements.
+6.Performs basic arithmetic operations based on user choice using if-elif.
+7.Uses a for loop to print numbers from 1 to 10.
+8.Prints all even numbers between 1 and 20 using loop control.
+9.Calculates the sum of first 10 natural numbers using built-in or loop.
+10.Displays multiplication table of a given number using loop.
+11.Uses while loop to print numbers from 1 to 5.
+12.Computes sum from 1 to n using a while loop.
+13.Continuously takes input until user enters 0, demonstrating loop control.
+14.Demonstrates use of break to exit loop when condition is met.
+15.Demonstrates use of continue to skip a specific iteration.
+16.Searches for a value in a list and stops when found using break.
+17.Defines and calls a simple function to print a message.
+18.Creates a function that returns the square of a number.
+19.Uses a function to add two numbers and return the result.
+20.Checks whether a number is even or odd using a function.
+21.Calculates factorial of a number using a function.
+22.Prints multiplication table using a function.
+23.Uses function and loop to check even/odd for numbers from 1 to n.
+24.Implements a menu-driven calculator using functions and loop until exit.
