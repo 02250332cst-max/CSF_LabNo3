@@ -31,6 +31,7 @@ Menu-driven calculator using functions and loop
 
 
 Short Explanation of Each Program
+
 Determines whether a given number is positive, negative, or zero using if-else statements.
 Checks if a number is even or odd using modulus operator.
 Compares two numbers and displays the larger one.
